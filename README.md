@@ -4,9 +4,10 @@
 แหล่งข้อมูลภาพ : iStock by Getty images, freeimages.com, Radiology.ucsf.edu
 
 ศึกษาแต่ละพารามิเตอร์ของสัยญาณรบกวน ： https://scikit-image.org/docs/stable/api/skimage.util.html#skimage.util.random_noise
-                             Bilateral [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_bilateral]
-                             Wavelet [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_wavelet]
-                             Nl means [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_nl_means]
-                             Tv bregman [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_tv_bregman]
-                             Tv chambolle [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_tv_chambolle]
+
+Bilateral [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_bilateral]
+Wavelet [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_wavelet]
+Nl means [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_nl_means]
+Tv bregman [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_tv_bregman]
+Tv chambolle [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_tv_chambolle]
 
