@@ -5,13 +5,13 @@
 
 ศึกษาแต่ละพารามิเตอร์ของสัญญาณรบกวน ： https://scikit-image.org/docs/stable/api/skimage.util.html#skimage.util.random_noise
 
--Bilateral [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_bilateral]
+1. Bilateral [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_bilateral]
 
--Wavelet [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_wavelet]
+2. Wavelet [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_wavelet]
 
--Nl means [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_nl_means]
+3. Nl means [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_nl_means]
 
--TV bregman [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_tv_bregman]
+4. TV bregman [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_tv_bregman]
 
--TV chambolle [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_tv_chambolle]
+5. TV chambolle [https://scikit-image.org/docs/stable/api/skimage.restoration.html#skimage.restoration.denoise_tv_chambolle]
 
